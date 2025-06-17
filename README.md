@@ -1,4 +1,4 @@
-<hi>Hi 👋 I'm Sanket Shrikant Patil.</hi>
+<h1>Hi 👋 I'm Sanket Shrikant Patil.</h1>
 # 💫 About Me:
 🔭 I’m currently Pursuing Computer Science<br>🌱 I’m currently learning Full - Stack Web Development
 
